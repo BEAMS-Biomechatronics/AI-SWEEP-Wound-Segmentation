@@ -6,6 +6,8 @@ Databases used:
 - FUSeg: https://github.com/uwm-bigdata/wound-segmentation
 - Wound Data: https://www.kaggle.com/datasets/mohamadtaher/wound-data/data
 
+To create the different datasets used with 5-fold cross-validation, the "cross_validation.py" script is used.
+
 The implementation of YOLOv8 comes from the Ultralytics github: https://github.com/ultralytics/ultralytics
 
 The base code for the implementation of UNet comes from this Kaggle repository: https://www.kaggle.com/code/mohamadtaher/test-drone-segmentation-notebook-for-wound-keras
